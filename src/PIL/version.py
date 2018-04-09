@@ -1,2 +1,3 @@
-# Master version for Pillow
-__version__ = '5.1.0'
+"""Pillow version (access as PIL.PILLOW_VERSION)"""
+import PIL
+__version__ = PIL.PILLOW_VERSION
